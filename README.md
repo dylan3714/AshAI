@@ -9,7 +9,7 @@
 - 下载源码:
 
 ```
-git clone https://github.com/cpprto/aiToyPro.git
+https://github.com/dylan3714/AshAI.git
 ```
 
 - 安装依赖
